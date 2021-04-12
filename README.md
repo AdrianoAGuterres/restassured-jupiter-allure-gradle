@@ -28,7 +28,7 @@ A instalação do Allure Framework é necessária se decidir usa-lo por linha de
 #### Arquitetura usada:
 O projeto usa a arquitetura AppObject e esta organizada da seguinte maneira:
 
-![alt text](https://user-images.githubusercontent.com/80764831/113803586-34ce6580-9733-11eb-9056-f09a7b88cc44.png)
+![alt text](https://user-images.githubusercontent.com/80764831/114328843-32de1b00-9b14-11eb-9a9a-3d0b1070a9fd.png)
 
 #### Considerações:
 Por default o Allure Framework cria pastas com o resultado do teste e o report dentro da pasta .build, 
