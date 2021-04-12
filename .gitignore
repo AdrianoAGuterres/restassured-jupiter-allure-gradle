@@ -1,0 +1,29 @@
+# Gradle files and folders
+.gradle/
+.gradle/**
+gradle/**
+gradle/
+build/**
+gradle-app.setting
+gradle-wrapper.jar
+.gradletasknamecache
+gradlew
+gradlew.bat
+
+# Intelij files and folders
+.idea/*
+
+# Java files and folders
+*.class
+*.log
+*.jar
+
+# report
+report/**
+resultsTests/**
+
+# Allure Report
+.allure/**
+
+
+
