@@ -1,4 +1,4 @@
-package io.mockapi;
+package io.mockapi.testCase;
 
 import io.mockapi.util.HttpCodes;
 import io.qameta.allure.Description;
@@ -18,7 +18,6 @@ public class TesteCarrinhoComprasApi {
     @BeforeEach
     public void setup() {
         RestAssured.baseURI = "http://5d9cc58566d00400145c9ed4.mockapi.io";
-
     }
 
     @Test
